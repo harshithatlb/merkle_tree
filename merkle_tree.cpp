@@ -125,7 +125,7 @@ int main(){
       
     node = addLeaves(input_data);   
     traverse_leaves(node);
-    build_levels(node);
+    //build_levels(node);
     //traverse_build1(node);
 }
 
